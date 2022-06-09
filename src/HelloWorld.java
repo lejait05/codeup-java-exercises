@@ -1,8 +1,10 @@
-//public class HelloWorld {
-//    public static void main(String[] args){
+public class HelloWorld {
+    public static void main(String[] args){
 //        int myFavoriteNumber = 37;
 //        String myString = "3.14159";
-//
+//       myString = 'd';
+//character is single quote
+//        long myNumber = 3.14;
 ////       float = 3.14;
 //
 //       imafloat = (float) imadouble;
@@ -20,6 +22,6 @@
 //        x /= y;
 //        y = y - x;
 //        y -= x;
-//        System.out.println(y);
-//    }
-//}
+        System.out.println();
+    }
+}

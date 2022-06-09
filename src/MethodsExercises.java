@@ -8,6 +8,20 @@ public class MethodsExercises {
         int a = readInput.nextInt();
         int b = readInput.nextInt();
         readInput.close();
-        System.out.println("The sum of  a and b is :" + Interger.sum(a,b));
+        System.out.println("The sum of  a and b is :" + Integer.sum(a,b));
+
+
+
+        public static int getInteger(int min, int max);
+        if ( max == 0){
+            return 1;
+        }
+        System.out.print("Enter a number between 1 and 10: ");
+        int userInput = getInteger(1, 10);
+
+
     }
+
+
+
 }

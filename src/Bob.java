@@ -14,4 +14,4 @@ public class Bob {
         } else if (userInput.trim().equals("")) {
             System.out.println("Fine. Be that way!");
         }
-    }
+    }}
