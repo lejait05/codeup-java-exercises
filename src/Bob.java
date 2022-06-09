@@ -5,13 +5,13 @@ public class Bob {
         Scanner sc = new Scanner(System.in);
         String userInput = sc.nextLine();
         // ends with?
-        if (userInput.endsWith("?")){
+        if (userInput.endsWith("?")) {
             System.out.println("Sure");
             // ends with !
-        }else if ( userInput.endsWith("!")){
+        } else if (userInput.endsWith("!")) {
             System.out.println("Whoa, chill out!");
             //empty string
-        }else if (userInput.trim().equals("")){
+        } else if (userInput.trim().equals("")) {
             System.out.println("Fine. Be that way!");
+        }
     }
-}
