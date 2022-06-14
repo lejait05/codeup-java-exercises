@@ -1,5 +1,5 @@
-//public class Person {
-//    private String name;
+public class Person {
+    private String name;
 //     public String getName(){
 ////TODO: return the person's name
 //    }
@@ -10,4 +10,4 @@
 //    public void sayHello(){
 ////TODO: print a message to the console using the person's name
 //    }
-//}
+}
