@@ -1,18 +1,22 @@
 package shapes;
 
 public class Rectangle {
-  protected  length;
-  protected width;
-
-  public get getPerimeter() {
-    return perimeter;
+  protected  double length;
+  protected double width;
+public Rectangle(double length, double width){
+    this.length = length;
+    this.width = width;
+}
+  public double getPerimeter() {
+   return  2 * length + 2 * width;
   }
 
-  perimeter = 2 x length + 2 x width
 
-  public get getArea() {
-    return area;
+
+  public double getArea() {
+   return length * width;
+
   }
 
-  area = length x width
+
 }
