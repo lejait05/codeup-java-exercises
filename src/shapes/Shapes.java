@@ -1,4 +1,4 @@
-package shapes;
-
-public abstract class Shapes {
-}
+//package shapes;
+//
+//public abstract class Shapes {
+//}
