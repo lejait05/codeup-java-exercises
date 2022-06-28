@@ -8,4 +8,6 @@ public class nad {
     public void setClothes(String clothes) {
         this.clothes = clothes;
     }
+
 }
+
